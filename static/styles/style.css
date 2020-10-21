@@ -1,0 +1,68 @@
+
+* {
+	  text-align: center;
+}
+
+.logo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  margin-bottom: 0%;
+}
+
+#container{
+    text-align: center;
+}
+
+
+input[type=submit] {
+  background: #8ED0BA;
+  border-radius: 20px;
+  width: 10%;
+  height: 6%;
+  left: 50%;
+  text-align: center;
+  top: 636px;
+  margin-bottom: 5%;
+  margin-top: 0%;
+  display: inline-block;
+}
+
+input[id=offer] {
+	background: black;
+	height:400%;
+}
+
+
+p {
+  font-family: Mont;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 10px;
+  color: #C4C4C4;
+}
+
+div p {
+  font-family: Mont;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 50%;
+  text-align: center;
+  color: #1F1646;	
+}
+
+h5 {
+  margin-top: 2%;
+  margin-bottom: 0%;
+  font-family: Mont;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 50%;
+  text-align: center;
+  color: #1F1646;
+}
+
